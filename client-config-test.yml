@@ -1,5 +1,5 @@
 remark:
-  msg: 通过springcloudbus，在客户端刷新集群服务
+  msg: 在客户端刷新集群服务,通过springcloudbus
        
       
 
